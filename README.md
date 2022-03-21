@@ -16,7 +16,7 @@
 [report](https://github.com/yoonene/Toy-Projects/blob/main/Suicide%20Prediction/%EC%9E%90%EC%82%B4%20%EA%B3%A0%EC%9C%84%ED%97%98%EA%B5%B0%20%EC%98%88%EC%B8%A1%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 
 ### fine dust prediction
-한국의 미세먼지량 예측 및 시계열 분석 프로젝트<br>      
+한국의 미세먼지량 예측 및 시계열 분석 프로젝트<br>   
 R 사용<br>
 [code 및 report](https://github.com/yoonene/Toy-Projects/blob/main/fine_dust%20prediction.pdf)
 
