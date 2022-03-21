@@ -1,4 +1,4 @@
-학교 과제 및 개인적인 토이 프로젝트에 대한 repository입니다.
+개인적인 토이 프로젝트에 대한 repository입니다.
 
 ### Covid-19 Topic Modeling
 코로나 관련 네이버 기사를 크롤링하여 토픽 모델링 <br>
